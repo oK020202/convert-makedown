@@ -49,6 +49,6 @@ AI系開発ツールを導入している企業まとめ
 | 株式会社マネーフォワード                      |            |           | ✅                  |             | （GitHub Copilot導入効果を検証・活用）                |
 | 株式会社ZOZO                          |            |           | ✅                  |             | （GitHub Copilot導入時の工夫点を紹介）                |
 | 株式会社NTTデータ                        |            |           | ✅                  |             | （2023年度に社内でGitHub Copilot先行導入・効果検証）       |
-| 株式会社ベースマキナ                          | ✅          | ✅         | ✅                  | ✅           | （Cursor・Copilotを開発にて全社導入、Devin・ChatGPTを必要に応じて活用）            |
+| 株式会社ベースマキナ                          | ✅          | ✅         | ✅                  | ✅           | （Cursor・Copilotを開発にて全社導入、Devin・ChatGPTを必要に応じて活用） [開発期間2週間！新機能の叩き台をAIエージェント駆動で爆速開発した話](https://tech.basemachina.jp/entry/prototyping-with-ai-agent)           |
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
