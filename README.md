@@ -49,8 +49,10 @@ AI系開発ツールを導入している企業まとめ
 | 株式会社マネーフォワード                      |            |           | ✅                  |             | （GitHub Copilot導入効果を検証・活用）                |
 | 株式会社ZOZO                          |            |           | ✅                  |             | （GitHub Copilot導入時の工夫点を紹介）                |
 | 株式会社NTTデータ                        |            |           | ✅                  |             | （2023年度に社内でGitHub Copilot先行導入・効果検証）       |
+| 株式会社ビザスク                         |            | ✅         | ✅                  | ✅          | （Cline(Vertex AI)やGenemi、AIモデルとしてはClaudeも活用している旨公開情報有り） <br> [安全で迅速なAI導入](https://tech.visasq.com/ai-development-infra-fast-start)、[ChatGPTをZapierで使う](https://tech.visasq.com/chatgpt-with-zapier) |
 | 株式会社ベースマキナ                          | ✅          | ✅         | ✅                  | ✅           | （Cursor・Copilotを開発にて全社導入、Devin・ChatGPTを必要に応じて活用）  <br> [開発期間2週間！新機能の叩き台をAIエージェント駆動で爆速開発した話](https://tech.basemachina.jp/entry/prototyping-with-ai-agent)           |
 | コクヨ株式会社                          |            | ✅         | ✅                  | ✅           | （Devin導入、Copilot導入、GPTを含めた複数LLMモデルのチャットツール有り） <br> [Devin導入記事](https://note.com/kokuyo_engineer/n/n2f4035ec6447)、[GitHub Copilot関連記事](https://note.com/kokuyo_engineer/n/n2c0572956865)、[GPTを含めた複数LLMモデルのチャットツール](https://classmethod.jp/cases/kokuyo/)            |
+| 株式会社スタディスト                          | ✅          | ✅         | ✅                  | ✅           | （全社の希望者に各アカウントを配布、Claude Teamを利用）  <br> [スタディストにおけるAIツールの柔軟な活用と効率化への道のり](https://studist.tech/studist-ai-tools-b42a78f8db7c)           |
 | 株式会社ココナラ                         | ✅          |           | ✅                  |             | （Cursor BusinessとGitHub Copilotを全社導入） <br> [いかにしてココナラはCursor Businessを導入したのか?](https://zenn.dev/coconala/articles/coconala-cursor-business-introduction) |
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
