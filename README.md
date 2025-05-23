@@ -54,6 +54,6 @@ AI系開発ツールを導入している企業まとめ
 | コクヨ株式会社                          |            | ✅         | ✅                  | ✅           | （Devin導入、Copilot導入、GPTを含めた複数LLMモデルのチャットツール有り） <br> [Devin導入記事](https://note.com/kokuyo_engineer/n/n2f4035ec6447)、[GitHub Copilot関連記事](https://note.com/kokuyo_engineer/n/n2c0572956865)、[GPTを含めた複数LLMモデルのチャットツール](https://classmethod.jp/cases/kokuyo/)            |
 | 株式会社スタディスト                          | ✅          | ✅         | ✅                  | ✅           | （全社の希望者に各アカウントを配布、Claude Teamを利用）  <br> [スタディストにおけるAIツールの柔軟な活用と効率化への道のり](https://studist.tech/studist-ai-tools-b42a78f8db7c)           |
 | 株式会社ココナラ                         | ✅          |           | ✅                  |             | （Cursor BusinessとGitHub Copilotを全社導入） <br> [いかにしてココナラはCursor Businessを導入したのか?](https://zenn.dev/coconala/articles/coconala-cursor-business-introduction) |
-| REALITY株式会社                          |            |          | ✅                  |           | （全エンジニアに「GitHub Copilot」利用環境を提供）           |
+| REALITY株式会社                          |            |          | ✅                  |           | （全エンジニアに「GitHub Copilot」利用環境を提供） <br> [REALITY株式会社の導入事例](https://note.com/reality_eng/n/nee88b2d864fd)           |
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
