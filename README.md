@@ -17,7 +17,7 @@ AI系開発ツールを導入している企業まとめ
 | **会社名**                           | **Cursor** | **Devin** | **GitHub Copilot** | **ChatGPT** | **公式情報（例：プレスリリース等）**                      |
 | --------------------------------- | ---------- | --------- | ------------------ | ----------- | ----------------------------------------- |
 | 株式会社メルカリ                          | ✅          | ✅         | ✅                  | ✅           | （Cursor全社導入、Copilot導入で生産性向上など）            |
-| パナソニックホールディングス株式会社 (Panasonic HD) |            |           |                    | ✅           | （「PX-GPT」を全社員約9万人に提供）                     |
+| パナソニックホールディングス株式会社 (Panasonic HD) |            |           | ✅                  | ✅           | （「PX-GPT」を全社員約9万人に提供） <br>  [開発スタイルの変革！ パナソニックグループでのGitHubとGitHub Copilot導入でやってみたこと](https://assets.ctfassets.net/wfutmusr1t3h/CREJxXjTaY2iEjREUnEfK/7758a1df872ed5a0d814e09563af38b6/1730_GitHubRecapTokyo_Panasonic_20241128__.pdf)                   |
 | 日立製作所 (Hitachi)                   |            |           |                    | ✅           | （「ジェネレーティブAIセンター」創設を発表）                   |
 | NECグループ (日本電気株式会社)                |            |           |                    | ✅           | （全社でChatGPT積極活用の方針を発表）                    |
 | 三菱UFJフィナンシャル・グループ                 |            |           |                    | ✅           | （2023年夏にChatGPTを社内導入予定と発表）                |
@@ -27,6 +27,7 @@ AI系開発ツールを導入している企業まとめ
 | LINEヤフー株式会社                       |            |           | ✅                  |             | （全エンジニア7,000名にGitHub Copilot導入）           |
 | ソフトバンク株式会社                        |            |           |                    | ✅           | （社内で生成AI活用を推進）                            |
 | GMOインターネットグループ株式会社                |            |           | ✅                  | ✅           | （社内でGitHub Copilot・ChatGPTを活用）            |
+| GMOペパボ株式会社                |✅            |✅           | ✅                  | ✅           | （社内でCursor, Devin, GitHub Copilot, ChatGPTを活用）            |
 | 株式会社ミクシィ                          |            |           |                    | ✅           | （ChatGPT Enterpriseを全従業員に導入）              |
 | 大日本印刷株式会社 (DNP)                   |            |           |                    | ✅           | （ChatGPT Enterpriseを研究開発等の部門で導入）          |
 | Zenken株式会社                        |            |           |                    | ✅           | （国内初、全社員にChatGPT Enterprise導入）            |
@@ -48,6 +49,7 @@ AI系開発ツールを導入している企業まとめ
 | 株式会社マネーフォワード                      |            |           | ✅                  |             | （GitHub Copilot導入効果を検証・活用）                |
 | 株式会社ZOZO                          |            |           | ✅                  |             | （GitHub Copilot導入時の工夫点を紹介）                |
 | 株式会社NTTデータ                        |            |           | ✅                  |             | （2023年度に社内でGitHub Copilot先行導入・効果検証）       |
+| 株式会社ベースマキナ                          | ✅          | ✅         | ✅                  | ✅           | （Cursor・Copilotを開発にて全社導入、Devin・ChatGPTを必要に応じて活用）  <br> [開発期間2週間！新機能の叩き台をAIエージェント駆動で爆速開発した話](https://tech.basemachina.jp/entry/prototyping-with-ai-agent)           |
 | コクヨ株式会社                          |            | ✅         | ✅                  | ✅           | （Devin導入、Copilot導入、GPTを含めた複数LLMモデルのチャットツール有り） [Devin導入記事](https://note.com/kokuyo_engineer/n/n2f4035ec6447)、[GitHub Copilot関連記事](https://note.com/kokuyo_engineer/n/n2c0572956865)、[GPTを含めた複数LLMモデルのチャットツール](https://classmethod.jp/cases/kokuyo/)            |
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
