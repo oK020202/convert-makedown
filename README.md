@@ -28,7 +28,7 @@ AI系開発ツールを導入している企業まとめ
 | ソフトバンク株式会社                        |            |           |                    | ✅           | （社内で生成AI活用を推進）                            |
 | GMOインターネットグループ株式会社                |            |           | ✅                  | ✅           | （社内でGitHub Copilot・ChatGPTを活用）            |
 | GMOペパボ株式会社                |✅            |✅           | ✅                  | ✅           | （社内でCursor, Devin, GitHub Copilot, ChatGPTを活用）            |
-| 株式会社ミクシィ                          |            |           |                    | ✅           | （ChatGPT Enterpriseを全従業員に導入）              |
+| 株式会社MIXI                          |🌀           |🌀           | ✅                  | ✅           | （ChatGPT Enterpriseを全従業員に導入）             |
 | 大日本印刷株式会社 (DNP)                   |            |           |                    | ✅           | （ChatGPT Enterpriseを研究開発等の部門で導入）          |
 | Zenken株式会社                        |            |           |                    | ✅           | （国内初、全社員にChatGPT Enterprise導入）            |
 | 株式会社リバネス                          |            |           |                    | ✅           | （ChatGPT Enterpriseを全社員に導入）               |
