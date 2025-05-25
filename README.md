@@ -56,5 +56,6 @@ AI系開発ツールを導入している企業まとめ
 | 株式会社スタディスト                          | ✅          | ✅         | ✅                  | ✅           | （全社の希望者に各アカウントを配布、Claude Teamを利用）  <br> [スタディストにおけるAIツールの柔軟な活用と効率化への道のり](https://studist.tech/studist-ai-tools-b42a78f8db7c)           |
 | 株式会社ココナラ                         | ✅          |           | ✅                  |             | （Cursor BusinessとGitHub Copilotを全社導入） <br> [いかにしてココナラはCursor Businessを導入したのか?](https://zenn.dev/coconala/articles/coconala-cursor-business-introduction) |
 | REALITY株式会社                          |            |          | ✅                  |           | （全エンジニアに「GitHub Copilot」利用環境を提供） <br> [REALITY株式会社の導入事例](https://note.com/reality_eng/n/nee88b2d864fd)           |
+| 株式会社ログラス                          |  ✅           | 🌀         | ✅               | 🌀          | （全エンジニアにCursor導入・一部にDevin導入） <br> [ログラスは全エンジニアにCursorを配ります](https://comemo.nikkei.com/n/n26dc284dcd5a) <br> [数年来の技術的負債を改修した話 - 2種類のORM並列状態からの脱却 -](https://zenn.dev/loglass/articles/94753ea267bb74) <br> [社内業務の生産性を爆上げしたGPTs / 利用推進のための取り組み](https://note.com/majackyy/n/n10b8191ef9ac?magazine_key=m56fa214ad4c6)         |
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
