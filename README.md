@@ -63,6 +63,7 @@ PRを送っていただけると大変助かります！🙌
 | 株式会社エアークローゼット | ✅           | 🌀             | ✅            | ✅            | ✅            | (Claude Code Max, GitHub Copilotを全エンジニアに導入し、Cursorは希望者に支給しています。Devinは一部で検証中です。API経由でGeminiも利用しています。）<br> [Claude Code Maxを全エンジニアに導入しました！](https://zenn.dev/aircloset/articles/6a343b70185e02) |
 | 株式会社ゲームエイト                     | 🌀          | ✅         | ✅                  | ✅           | ✅          | （Cursor一部導入、Devin・Copilot・ChatGPT・Claude Code全社導入） <br> [GitHub Copilot導入](https://x.com/chan_san_jp/status/1626073316523130883) <br> [Claude MAX導入](https://x.com/chan_san_jp/status/1930602413473636483) |
 | 株式会社マインディア                     |            |            | ✅                  | ✅           | ✅          | 全社的にLLMは積極的に利用する方針なので申請すれば利用可能です。([参考](https://zenn.dev/p/minedia)) |
+| STORES 株式会社 | ✅ | ✅ | ✅ | ✅ | 🌀 | Cursor, Devin, GitHub Copilot Enterpriseは申請に基づき希望者（全社員対象）にアカウント発行。ChatGPTも申請に応じて利用可能。Claude Codeは一部で展開中。<br>[AIサービス導入時にまずチェックすべき3つの観点](https://product.st.inc/entry/2025/06/26/194458) |
 
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
