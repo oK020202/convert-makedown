@@ -32,8 +32,8 @@ AI系開発ツールを導入している企業まとめ
 | 大日本印刷株式会社 (DNP)                   |            |           |                    | ✅           |             | （ChatGPT Enterpriseを研究開発等の部門で導入）          |
 | Zenken株式会社                        |            |           |                    | ✅           |             | （国内初、全社員にChatGPT Enterprise導入）            |
 | 株式会社リバネス                          |            |           |                    | ✅           |             | （ChatGPT Enterpriseを全社員に導入）               |
-| 株式会社リバネスナレッジ                   | ✅         | ✅        |                  | ✅           | ✅           | （APIは各種活用中。manus,Windsurf,Claude Code活用開始）[エンジニアチームをAIエージェント対応組織に変革してうまくいき始めている気がする](https://note.com/geeorgey/n/n71a0bd984115) |
-| 株式会社カカクコム                         | ✅          |           |                    |             |             | （AIコードエディタ「Cursor」を全エンジニア約500人に導入）        |
+| 株式会社リバネスナレッジ                   | ✅         | ✅        |                  | ✅           | ✅            | （APIは各種活用中。manus,Windsurf,Claude Code活用開始）[エンジニアチームをAIエージェント対応組織に変革してうまくいき始めている気がする](https://note.com/geeorgey/n/n71a0bd984115) |
+| 株式会社カカクコム                         | ✅          |           |                    |             |              | （AIコードエディタ「Cursor」を全エンジニア約500人に導入）        |
 | 株式会社エブリー                          | ✅          |           |                    |             |             | （「Cursor」を全エンジニア・PdMに導入）                  |
 | クラウドエース株式会社                       |            | ✅         |                    |             |             | （自律型AIエンジニア「Devin」を本格導入）                  |
 | 株式会社Hacobu                        | ✅          | ✅         | ✅                  | ✅           |             | （全エンジニアに「Devin」「Cursor」「ChatGPT」「GitHub Copilot」を導入）<br> [「Devin」「Cursor」「ChatGPT」をテクノロジー部門全体へ展開](https://hacobu.jp/news/15146/) <br> [「ChatGPT」と「GitHub Copilot for Business」を導入](https://hacobu.jp/news/3339/)      |
