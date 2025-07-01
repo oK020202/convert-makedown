@@ -63,7 +63,12 @@ PRを送っていただけると大変助かります！🙌
 | 株式会社エアークローゼット | ✅           | 🌀             | ✅            | ✅            | ✅            | (Claude Code Max, GitHub Copilotを全エンジニアに導入し、Cursorは希望者に支給しています。Devinは一部で検証中です。API経由でGeminiも利用しています。）<br> [Claude Code Maxを全エンジニアに導入しました！](https://zenn.dev/aircloset/articles/6a343b70185e02) |
 | 株式会社ゲームエイト                     | 🌀          | ✅         | ✅                  | ✅           | ✅          | （Cursor一部導入、Devin・Copilot・ChatGPT・Claude Code全社導入） <br> [GitHub Copilot導入](https://x.com/chan_san_jp/status/1626073316523130883) <br> [Claude MAX導入](https://x.com/chan_san_jp/status/1930602413473636483) |
 | 株式会社マインディア                     |            |            | ✅                  | ✅           | ✅          | 全社的にLLMは積極的に利用する方針なので申請すれば利用可能です。([参考](https://zenn.dev/p/minedia)) |
+| 株式会社メドレー                          | ✅          | ✅         | ✅                  | 🌀           | ✅           | 希望者に各アカウントを配布。Devinも100名を超えて積極活用中です。ClaudeCodeはAPI・Maxプランどちらも状況に合わせて導入  <br> [メドレーのAI活用戦略：「AI for All」](https://developer.medley.jp/entry/2025/04/25/112655/)           |
+| 株式会社picon                          | ✅          | ✅         | ✅                  | ✅           | ✅           | （職種問わず全社員にAIツールを導入）                      |
+| 株式会社サイバーエージェント | ✅           | 🌀             | ✅            | ✅            | ✅            | （全社的に GitHub Copilot と ChatGPT をエンタープライズ契約しているのに加え、エンジニア1人あたり $200/月 まで任意の開発AIエージェントの費用を負担） <br> [サイバーエージェントのAI導入事例](https://note.com/cyberagent/n/n10b8191ef9ac) <br> [サイバーエージェントのGitHub Copilot導入と 開発生産性](https://speakerdeck.com/kurochan/saihaesientonogithub-copilotdao-ru-to-kai-fa-sheng-chan-xing?slide=68) <br> [サイバーエージェントのGitHub CopilotのAnalyticsデータを公開！利用開始から約3ヶ月でエンジニアの生産性は向上したのか？](https://developers.cyberagent.co.jp/blog/archives/43059/) <br> [開発AIエージェント導入に年間約4億円を投資決定](https://www.cyberagent.co.jp/news/detail/id=32077) |
+| STORES 株式会社 | ✅ | ✅ | ✅ | ✅ | 🌀 | Cursor, Devin, GitHub Copilot Enterpriseは申請に基づき希望者（全社員対象）にアカウント発行。ChatGPTも申請に応じて利用可能。Claude Codeは一部で展開中。<br>[AIサービス導入時にまずチェックすべき3つの観点](https://product.st.inc/entry/2025/06/26/194458) |
+| 株式会社 asken | ✅ | ✅ | ✅ | 🌀 | 🌀 | Cursor、Devin、GitHub Copilotは全エンジニアに導入済み |
+| レバレジーズ株式会社 | 🌀 | 🌀 | [✅](https://tech.leverages.jp/entry/2023/07/24/140938) | Gemini<br>[社内ツール](https://tech.leverages.jp/entry/2024/12/10/131137) | 🌀 | 自社のセキュリティやプライバシーポリシー等に抵触しない限り、申請すれば利用可能 |
 | 千株式会社                     | ✅          | 🌀           | ✅                  | 🌀          | 🌀          | （「GitHub Copilot、Cursor」を全エンジニア・PdMに導入・Devin、Claude Codeを一部導入） |
-
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
