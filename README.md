@@ -86,5 +86,6 @@ PRを送っていただけると大変助かります！🙌
 | 株式会社TOKIUM                       |            | ✅         | ✅                  |             |            | GitHub Copilotは2023年3月、Devinは2025年2月より導入 <br> [「AIが設計し、人間が洗練させる」新しい開発プロセスが始まった - 株式会社TOKIUM公式note](https://note.tokium.jp/n/ndc3da77d6e44)                                          |
 | 株式会社アシュアード             | 🌀          | 🌀          | ✅          | 🌀          | ✅          | GitHub CopilotとClaude Codeをエンジニア向けに全社導入。<br> CursorをPdM、デザイナーに一部導入。 <br> ほか、Gemini Pro が全社で利用可能。          |
 | 株式会社コロプラ                         | ✅          | 🌀         | ✅                  | ✅           | ✅           | （Gemini Pro全社導入、Gemini CLI一部導入） <br> [AI駆動開発に向けた取り組み - AI推進組織の発足とCursorの導入](https://blog.colopl.dev/entry/cursor-engineer-adoption-2025) |
+| 株式会社エスマット                         | ✅          | ✅         | ✅                  | ✅           | ✅           | 個人が好きな環境を選択可。Claude Codeは利用量に応じてMAXプランに切り替え可。|
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
