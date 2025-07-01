@@ -41,7 +41,7 @@ PRを送っていただけると大変助かります！🙌
 | 株式会社メタップス                         |            |           | ✅                  |             |             | （全エンジニアに「GitHub Copilot for Business」を導入） |
 | 株式会社ツクルバ                          |            |           | ✅                  |             |             | （全エンジニアに「GitHub Copilot」利用環境を提供）          |
 | 株式会社ワンキャリア                        |            |           | ✅                  |             |             | （AIコーディング支援ツール「GitHub Copilot」を導入）        |
-| ENECHANGE株式会社                     |            |           | ✅                  | ✅           |             | （全エンジニアにCopilot導入＆全従業員にChatGPT Plus導入）    |
+| ENECHANGE株式会社                        | ✅          | ✅         | ✅                  | ✅           | ✅            | （プロダクト開発に関わる全社員に「Cursor」「Claude」「Devin」「GitHub Copilot」「ChatGPT」を導入）<br> [ENECHANGE、AIエージェント導入でプロダクト開発を強化](https://enechange.co.jp/news/press/ai-agents/) [「GPT-4」の全従業員への導入、「GitHub Copilot」の全エンジニアへの導入による業務改革を開始](https://enechange.co.jp/news/press/gpt4/) |
 | 株式会社クリエ                           |            |           | ✅                  |             |             | （「GitHub Copilot Business」を2024年6月より導入）   |
 | 株式会社スカイディスク                       |            |           | ✅                  |             |             | （GPT-4搭載「GitHub Copilot X」を全エンジニアに導入）     |
 | 株式会社Sapeet                        |            | ✅         |                    |             |             | （全エンジニアが完全自律型AIエンジニア「Devin」利用可能に）         |
