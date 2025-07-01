@@ -76,5 +76,6 @@ PRを送っていただけると大変助かります！🙌
 | 株式会社 オプティム | ✅ | | | | ✅ | 全エンジニアにAmazon bedrock経由で導入済み |
 | [NOWIST株式会社](https://nowist.co.jp/)  | ✅ |  | ✅ | ✅ |  | 全職種AI利用OK！ドキュメントと連携し効率化中  |
 | monoAI technology株式会社 | | | ✅ | ✅ | 🌀 | GitHub Copilot,ChatGPTは全社、Claude Codeはサーバーエンジニアのみ。UnityエンジニアはWindsurfを利用 |
+| 株式会社Voicy | ✅ | ✅ | ✅ | ✅ | ✅ | Gemini を全社員に導入。全社の希望者に、Cursor、Devin、GitHub Copilot、ChatGPT、Claude Code の各アカウントを配布 |
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
