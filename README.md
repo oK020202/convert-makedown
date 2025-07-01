@@ -77,5 +77,6 @@ PRを送っていただけると大変助かります！🙌
 | [NOWIST株式会社](https://nowist.co.jp/)  | ✅ |  | ✅ | ✅ |  | 全職種AI利用OK！ドキュメントと連携し効率化中  |
 | monoAI technology株式会社 | | | ✅ | ✅ | 🌀 | GitHub Copilot,ChatGPTは全社、Claude Codeはサーバーエンジニアのみ。UnityエンジニアはWindsurfを利用 |
 | 株式会社Voicy | ✅ | ✅ | ✅ | ✅ | ✅ | Gemini を全社員に導入。全社の希望者に、Cursor、Devin、GitHub Copilot、ChatGPT、Claude Code の各アカウントを配布 |
+| 株式会社スマートバンク | ✅ | ✅ | ✅ | ✅ | ✅ | 全エンジニアはClaude Max / Cursor / GitHub Copilotから使いたいものを選んで利用可能です。全社員、Devinを利用可能で、$50まで好きなAIサービスを利用できるためChatGPTも利用可能です。 |
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
