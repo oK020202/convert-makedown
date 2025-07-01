@@ -84,5 +84,6 @@ PRを送っていただけると大変助かります！🙌
 | 株式会社カンリー                         | ✅          | ✅         | ✅                  | ✅           |      ✅       | Cursor/Copilotは選択式<br/>Devin/ClaudeCodeは全エンジニアに導入<br/>Gemini/ChatGPT/NotionAIは職種を問わず全社員導入<br/>[カンリーはDevinを入社させて、文化を変えていきます](https://zenn.dev/canly/articles/d06828073eb545)            |
 | 株式会社カケハシ                          | ✅          | ✅         | ✅                  | 🌀           |      🌀       | （Cursor・Devin・GitHub Copilot・Geminiアプリを全社導入、ChatGPTはTeamプランを一部利用、Claude Code は社内検証中）            |
 | 株式会社TOKIUM                       |            | ✅         | ✅                  |             |            | GitHub Copilotは2023年3月、Devinは2025年2月より導入 <br> [「AIが設計し、人間が洗練させる」新しい開発プロセスが始まった - 株式会社TOKIUM公式note](https://note.tokium.jp/n/ndc3da77d6e44)                                          |
+| 株式会社Showcase Gig | ✅ | ✅ | ✅ | ✅ |  | Cursor, Devin, Github Copilot, ChatGPT は全エンジニアに導入。Claude Code は検討中です。 |
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
