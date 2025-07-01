@@ -72,6 +72,6 @@ PRを送っていただけると大変助かります！🙌
 | 千株式会社                     | ✅          | 🌀           | ✅                  | 🌀          | 🌀          | （「GitHub Copilot、Cursor」を全エンジニア・PdMに導入・Devin、Claude Codeを一部導入） |
 | 株式会社TechBowl                       |            |           | ✅                  |             | ✅           | GitHub CopilotとClaude Codeを全社導入 <br> [参考](https://zenn.dev/p/techtrain_blog)                                          |
 | ランサーズ株式会社                          | 🌀          | 🌀         |                   |            | 🌀           | 2025年3月から全エンジニアに「Windsurf」を導入、一部はCursor、Claude Code、Dify利用可能。また業務自動化AIエージェント「ランサーズ ジムインAI」全社導入、OpenAI、Gemini、Anthropicの主要モデルおよびStableDiffusionでの画像生成が使い放題  <br> [弊社執行役員のポスト](https://x.com/waldo0515/status/1924749765159616592) <br>  [ランサーズ ジムインAI](https://www.lancers.co.jp/news/pr/24268/)          |
-
+| 株式会社カナリー                          | ✅           | ✅           | ✅                  | 🌀           |             | Gemini for Google Workspace・Difyを全社導入 <br> [AI関連ツールの活用](https://recruit.canary-app.jp/engineer-entrance-book#:~:text=%E3%81%A6%E3%81%84%E3%81%8D%E3%81%9F%E3%81%84%E3%80%82-,3.2%20AI%E9%96%A2%E9%80%A3%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AE%E6%B4%BB%E7%94%A8,-GitHub%20Copilot)             |
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
