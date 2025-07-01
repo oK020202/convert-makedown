@@ -75,5 +75,6 @@ PRを送っていただけると大変助かります！🙌
 | 株式会社カナリー                          | ✅           | ✅           | ✅                  | 🌀           |             | Gemini for Google Workspace・Difyを全社導入 <br> [AI関連ツールの活用](https://recruit.canary-app.jp/engineer-entrance-book#:~:text=%E3%81%A6%E3%81%84%E3%81%8D%E3%81%9F%E3%81%84%E3%80%82-,3.2%20AI%E9%96%A2%E9%80%A3%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AE%E6%B4%BB%E7%94%A8,-GitHub%20Copilot)             |
 | 株式会社 オプティム | ✅ | | | | ✅ | 全エンジニアにAmazon bedrock経由で導入済み |
 | [NOWIST株式会社](https://nowist.co.jp/)  | ✅ |  | ✅ | ✅ |  | 全職種AI利用OK！ドキュメントと連携し効率化中  |
+| monoAI technology株式会社 | | | ✅ | ✅ | 🌀 | GitHub Copilot,ChatGPTは全社、Claude Codeはサーバーエンジニアのみ。UnityエンジニアはWindsurfを利用 |
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
