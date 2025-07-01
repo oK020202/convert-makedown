@@ -16,7 +16,7 @@ PRを送っていただけると大変助かります！🙌
 
 | **会社名**                           | **Cursor** | **Devin** | **GitHub Copilot** | **ChatGPT** | **Claude Code** | **公式情報（例：プレスリリース等）**                      |
 | --------------------------------- | ---------- | --------- | ------------------ | ----------- | ------------ | ----------------------------------------- |
-| 株式会社メルカリ                          | ✅          | ✅         | ✅                  | ✅           |      ✅       | （Cursor全社導入、Copilot導入で生産性向上など）            |
+| 株式会社メルカリ                          | ✅          | 🌀         | ✅                  | ✅           |      ✅       | （Cursor全社導入、Copilot導入で生産性向上など）            |
 | パナソニックホールディングス株式会社 (Panasonic HD) |            |           | ✅                  | ✅           |             | （「PX-GPT」を全社員約9万人に提供） <br>  [開発スタイルの変革！ パナソニックグループでのGitHubとGitHub Copilot導入でやってみたこと](https://assets.ctfassets.net/wfutmusr1t3h/CREJxXjTaY2iEjREUnEfK/7758a1df872ed5a0d814e09563af38b6/1730_GitHubRecapTokyo_Panasonic_20241128__.pdf)                   |
 | 日立製作所 (Hitachi)                   |            |           |                    | ✅           |             | （「ジェネレーティブAIセンター」創設を発表）                   |
 | NECグループ (日本電気株式会社)                |            |           |                    | ✅           |             | （全社でChatGPT積極活用の方針を発表）                    |
@@ -41,7 +41,7 @@ PRを送っていただけると大変助かります！🙌
 | 株式会社メタップス                         |            |           | ✅                  |             |             | （全エンジニアに「GitHub Copilot for Business」を導入） |
 | 株式会社ツクルバ                          |            |           | ✅                  |             |             | （全エンジニアに「GitHub Copilot」利用環境を提供）          |
 | 株式会社ワンキャリア                        |            |           | ✅                  |             |             | （AIコーディング支援ツール「GitHub Copilot」を導入）        |
-| ENECHANGE株式会社                     |            |           | ✅                  | ✅           |             | （全エンジニアにCopilot導入＆全従業員にChatGPT Plus導入）    |
+| ENECHANGE株式会社                        | ✅          | ✅         | ✅                  | ✅           | ✅            | （プロダクト開発に関わる全社員に「Cursor」「Claude」「Devin」「GitHub Copilot」「ChatGPT」を導入）<br> [ENECHANGE、AIエージェント導入でプロダクト開発を強化](https://enechange.co.jp/news/press/ai-agents/) [「GPT-4」の全従業員への導入、「GitHub Copilot」の全エンジニアへの導入による業務改革を開始](https://enechange.co.jp/news/press/gpt4/) |
 | 株式会社クリエ                           |            |           | ✅                  |             |             | （「GitHub Copilot Business」を2024年6月より導入）   |
 | 株式会社スカイディスク                       |            |           | ✅                  |             |             | （GPT-4搭載「GitHub Copilot X」を全エンジニアに導入）     |
 | 株式会社Sapeet                        |            | ✅         |                    |             |             | （全エンジニアが完全自律型AIエンジニア「Devin」利用可能に）         |
@@ -71,6 +71,18 @@ PRを送っていただけると大変助かります！🙌
 | レバレジーズ株式会社 | 🌀 | 🌀 | [✅](https://tech.leverages.jp/entry/2023/07/24/140938) | Gemini<br>[社内ツール](https://tech.leverages.jp/entry/2024/12/10/131137) | 🌀 | 自社のセキュリティやプライバシーポリシー等に抵触しない限り、申請すれば利用可能 |
 | 千株式会社                     | ✅          | 🌀           | ✅                  | 🌀          | 🌀          | （「GitHub Copilot、Cursor」を全エンジニア・PdMに導入・Devin、Claude Codeを一部導入） |
 | 株式会社TechBowl                       |            |           | ✅                  |             | ✅           | GitHub CopilotとClaude Codeを全社導入 <br> [参考](https://zenn.dev/p/techtrain_blog)                                          |
+| ランサーズ株式会社                          | 🌀          | 🌀         |                   |            | 🌀           | 2025年3月から全エンジニアに「Windsurf」を導入、一部はCursor、Claude Code、Dify利用可能。また業務自動化AIエージェント「ランサーズ ジムインAI」全社導入、OpenAI、Gemini、Anthropicの主要モデルおよびStableDiffusionでの画像生成が使い放題  <br> [弊社執行役員のポスト](https://x.com/waldo0515/status/1924749765159616592) <br>  [ランサーズ ジムインAI](https://www.lancers.co.jp/news/pr/24268/)          |
+| 株式会社カナリー                          | ✅           | ✅           | ✅                  | 🌀           |             | Gemini for Google Workspace・Difyを全社導入 <br> [AI関連ツールの活用](https://recruit.canary-app.jp/engineer-entrance-book#:~:text=%E3%81%A6%E3%81%84%E3%81%8D%E3%81%9F%E3%81%84%E3%80%82-,3.2%20AI%E9%96%A2%E9%80%A3%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AE%E6%B4%BB%E7%94%A8,-GitHub%20Copilot)             |
+| 株式会社 オプティム | ✅ | | | | ✅ | 全エンジニアにAmazon bedrock経由で導入済み |
+| [NOWIST株式会社](https://nowist.co.jp/)  | ✅ |  | ✅ | ✅ |  | 全職種AI利用OK！ドキュメントと連携し効率化中  |
+| monoAI technology株式会社 | | | ✅ | ✅ | 🌀 | GitHub Copilot,ChatGPTは全社、Claude Codeはサーバーエンジニアのみ。UnityエンジニアはWindsurfを利用 |
+| 株式会社Voicy | ✅ | ✅ | ✅ | ✅ | ✅ | Gemini を全社員に導入。全社の希望者に、Cursor、Devin、GitHub Copilot、ChatGPT、Claude Code の各アカウントを配布 |
+| 株式会社スマートバンク | ✅ | ✅ | ✅ | ✅ | ✅ | 全エンジニアはClaude Max / Cursor / GitHub Copilotから使いたいものを選んで利用可能です。全社員、Devinを利用可能で、$50まで好きなAIサービスを利用できるためChatGPTも利用可能です。 |
+| 株式会社 Fusic | ✅ | ✅ | ✅ | ✅ | ✅ | Cursor、Devin、GitHub Copilot、Claude Codeを全エンジニアに展開しチーム等の判断により自由に選択可能。ChatGPT/Claudeはエンジニア以外にも導入済み |
+| 株式会社TimeTree | ✅ | ✅ | ✅ | ✅ | ✅ | これらのツールに加えてClaude.ai, Gemini, Gemini Code Assist, OpenAI API, Anthropic APIが利用可能(APIはワークスペース単位での利用上限あり) |
+| 株式会社SmartHR                        | ✅          | ✅         | ✅                  | ✅           |             | 全社的にAIサービスの利用を推進しています。特にChatGPT、CursorはPdE以外のメンバーにも幅広く利用されています。 <br> [Cursor/Devin全社導入の理想と現実](https://speakerdeck.com/saitoryc/devinquan-she-dao-ru-noli-xiang-toxian-shi) <br> [「Cursor/Devin全社導入の理想と現実」のその後](https://speakerdeck.com/saitoryc/devinquan-she-dao-ru-noli-xiang-toxian-shi-nosonohou) <br> [エンジニア向けCursor勉強会のハンズオン資料公開！ —— Rules、Doc、MCP、音声入力との連携も](https://tech.smarthr.jp/entry/2025/04/28/163136) <br> [SmartHRの複数のチームにおけるMCPサーバーの活用事例と課題](https://speakerdeck.com/yukisnow1823/smarthrnofu-shu-notimuniokerumcpsabanohuo-yong-shi-li-toke-ti)                                          |
+| 株式会社カンリー                         | ✅          | ✅         | ✅                  | ✅           |      ✅       | Cursor/Copilotは選択式<br/>Devin/ClaudeCodeは全エンジニアに導入<br/>Gemini/ChatGPT/NotionAIは職種を問わず全社員導入<br/>[カンリーはDevinを入社させて、文化を変えていきます](https://zenn.dev/canly/articles/d06828073eb545)            |
+| 株式会社カケハシ                          | ✅          | ✅         | ✅                  | 🌀           |      🌀       | （Cursor・Devin・GitHub Copilot・Geminiアプリを全社導入、ChatGPTはTeamプランを一部利用、Claude Code は社内検証中）            |
 | 株式会社TOKIUM                       |            | ✅         | ✅                  |             |            | GitHub Copilotは2023年3月、Devinは2025年2月より導入 <br> [「AIが設計し、人間が洗練させる」新しい開発プロセスが始まった - 株式会社TOKIUM公式note](https://note.tokium.jp/n/ndc3da77d6e44)                                          |
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
