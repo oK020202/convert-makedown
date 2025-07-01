@@ -80,5 +80,6 @@ PRを送っていただけると大変助かります！🙌
 | 株式会社スマートバンク | ✅ | ✅ | ✅ | ✅ | ✅ | 全エンジニアはClaude Max / Cursor / GitHub Copilotから使いたいものを選んで利用可能です。全社員、Devinを利用可能で、$50まで好きなAIサービスを利用できるためChatGPTも利用可能です。 |
 | 株式会社 Fusic | ✅ | ✅ | ✅ | ✅ | ✅ | Cursor、Devin、GitHub Copilot、Claude Codeを全エンジニアに展開しチーム等の判断により自由に選択可能。ChatGPT/Claudeはエンジニア以外にも導入済み |
 | 株式会社TimeTree | ✅ | ✅ | ✅ | ✅ | ✅ | これらのツールに加えてClaude.ai, Gemini, Gemini Code Assist, OpenAI API, Anthropic APIが利用可能(APIはワークスペース単位での利用上限あり) |
+| 株式会社SmartHR                        | ✅          | ✅         | ✅                  | ✅           |             | 全社的にAIサービスの利用を推進しています。特にChatGPT、CursorはPdE以外のメンバーにも幅広く利用されています。 <br> [Cursor/Devin全社導入の理想と現実](https://speakerdeck.com/saitoryc/devinquan-she-dao-ru-noli-xiang-toxian-shi) <br> [「Cursor/Devin全社導入の理想と現実」のその後](https://speakerdeck.com/saitoryc/devinquan-she-dao-ru-noli-xiang-toxian-shi-nosonohou) <br> [エンジニア向けCursor勉強会のハンズオン資料公開！ —— Rules、Doc、MCP、音声入力との連携も](https://tech.smarthr.jp/entry/2025/04/28/163136) <br> [SmartHRの複数のチームにおけるMCPサーバーの活用事例と課題](https://speakerdeck.com/yukisnow1823/smarthrnofu-shu-notimuniokerumcpsabanohuo-yong-shi-li-toke-ti)                                          |
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
