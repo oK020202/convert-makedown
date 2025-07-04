@@ -89,6 +89,7 @@ PRを送っていただけると大変助かります！🙌
 | 株式会社アシュアード             | 🌀          | 🌀          | ✅          | 🌀          | ✅          | GitHub CopilotとClaude Codeをエンジニア向けに全社導入。<br> CursorをPdM、デザイナーに一部導入。 <br> ほか、Gemini Pro が全社で利用可能。          |
 | 株式会社コロプラ                         | ✅          | 🌀         | ✅                  | ✅           | ✅           | （Gemini Pro全社導入、Gemini CLI一部導入） <br> [AI駆動開発に向けた取り組み - AI推進組織の発足とCursorの導入](https://blog.colopl.dev/entry/cursor-engineer-adoption-2025) |
 | 株式会社 mov | ✅ | ✅ | ✅  | ✅ | ✅ | [mov は各種 AI ツールを導入しています](https://note.com/kaiba/n/n25e5cce10932)
+| [株式会社kubell](https://www.kubell.com/) | 🌀 | 🌀 | ✅ | | 🌀 | 希望者にはCursor,Devin,ClaudeCodeなど付与。全社としてはGeminiが使えるような環境。 |
 | アスクル株式会社                            |  | 🌀 | ✅  | ✅ |  | GitHub Copilotは全エンジニアに、ChatGPTは全社的に導入済み。Devinは一部開発チームから順次導入しています。<br> [全社員を対象に自社専用対話型生成AIツールを運用開始](https://www.askul.co.jp/kaisya/dx/stories/00146.html?nextUri=/kaisya/dx/stories/00146.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
