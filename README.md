@@ -94,5 +94,6 @@ PRを送っていただけると大変助かります！🙌
 | 株式会社エスマット                         | ✅          | ✅         | ✅                  | ✅           | ✅           | 個人が好きな環境を選択可能。Claude Codeは利用量に応じてMAXプランに切り替え可。|
 | 株式会社B4A | 🌀 | ✅ | ✅ | 🌀 | ✅ | プロダクトチーム全社員がClaude CodeとDevin利用可能。<br>全社員がGemini利用可能。<br>CursorとChatGPTは一部のみ利用可能。 |
 | mocomoco株式会社                        | 🌀          | 🌀         | ✅                  | ✅           | ✅           | mocomocoでは、Claude Codeを開発部全員に導入しています🤖 <br> https://x.com/gojiteji/status/1936074104811229686 |
+| 株式会社ヤオコー                         | 🌀         | 🌀         | ✅                  | 🌀           | 🌀           |（GitHub Copilotは全社導入、Devinは2025/02より使用開始、ClaudeCodeMaxPlanは2025/06より導入、社内文書をRAG化したAIボットのイントラツールを内製し全店舗で利用可能） [人間性を捧げる生成AI時代の技術選定](https://speakerdeck.com/yo4raw/ren-jian-xing-wo) |
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
