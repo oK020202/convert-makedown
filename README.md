@@ -96,5 +96,6 @@ PRを送っていただけると大変助かります！🙌
 | mocomoco株式会社                        | 🌀          | 🌀         | ✅                  | ✅           | ✅           | mocomocoでは、Claude Codeを開発部全員に導入しています🤖 <br> https://x.com/gojiteji/status/1936074104811229686 |
 | 株式会社ヤオコー                         | 🌀         | 🌀         | ✅                  | 🌀           | 🌀           |（GitHub Copilotは全社導入、Devinは2025/02より使用開始、ClaudeCodeMaxPlanは2025/06より導入、社内文書をRAG化したAIボットのイントラツールを内製し全店舗で利用可能） [人間性を捧げる生成AI時代の技術選定](https://speakerdeck.com/yo4raw/ren-jian-xing-wo) |
 | 株式会社キャリアインデックス | 🌀 | ✅ | ✅  | 🌀 | 🌀 | エンジニアに関して、Claude Codeは今後MAXを利用する予定、CodeRabbitも一部導入中。Geminiは全社員導入中。 |
+| 株式会社iCARE                          | 🌀          | ✅         | ✅                  |            | 🌀           | 全社的にAIツールの利用を推進。GitHub Copilot・Devin（Wiki・Search・Session）を全社導入、Claude Codeのmaxプランを全エンジニアに展開予定
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
