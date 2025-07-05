@@ -10,6 +10,7 @@ PRを送っていただけると大変助かります！🙌
 |---|---|
 |✅|全社導入|
 |🌀|一部導入|
+|❓|未確認|
 | |導入してない|
 
 
@@ -83,9 +84,16 @@ PRを送っていただけると大変助かります！🙌
 | 株式会社SmartHR                        | ✅          | ✅         | ✅                  | ✅           |             | 全社的にAIサービスの利用を推進しています。特にChatGPT、CursorはPdE以外のメンバーにも幅広く利用されています。 <br> [Cursor/Devin全社導入の理想と現実](https://speakerdeck.com/saitoryc/devinquan-she-dao-ru-noli-xiang-toxian-shi) <br> [「Cursor/Devin全社導入の理想と現実」のその後](https://speakerdeck.com/saitoryc/devinquan-she-dao-ru-noli-xiang-toxian-shi-nosonohou) <br> [エンジニア向けCursor勉強会のハンズオン資料公開！ —— Rules、Doc、MCP、音声入力との連携も](https://tech.smarthr.jp/entry/2025/04/28/163136) <br> [SmartHRの複数のチームにおけるMCPサーバーの活用事例と課題](https://speakerdeck.com/yukisnow1823/smarthrnofu-shu-notimuniokerumcpsabanohuo-yong-shi-li-toke-ti)                                          |
 | 株式会社カンリー                         | ✅          | ✅         | ✅                  | ✅           |      ✅       | Cursor/Copilotは選択式<br/>Devin/ClaudeCodeは全エンジニアに導入<br/>Gemini/ChatGPT/NotionAIは職種を問わず全社員導入<br/>[カンリーはDevinを入社させて、文化を変えていきます](https://zenn.dev/canly/articles/d06828073eb545)            |
 | 株式会社カケハシ                          | ✅          | ✅         | ✅                  | 🌀           |      🌀       | （Cursor・Devin・GitHub Copilot・Geminiアプリを全社導入、ChatGPTはTeamプランを一部利用、Claude Code は社内検証中）            |
+| 株式会社カオナビ                       |            |           | ✅                  |             | 🌀           | (その他Gemini・NotebookLM・内製Slack AIチャットボット(Claude Sonnet)を全社導入、Claude Code導入準備中)  |
 | 株式会社TOKIUM                       |            | ✅         | ✅                  |             |            | GitHub Copilotは2023年3月、Devinは2025年2月より導入 <br> [「AIが設計し、人間が洗練させる」新しい開発プロセスが始まった - 株式会社TOKIUM公式note](https://note.tokium.jp/n/ndc3da77d6e44)                                          |
+| 株式会社Showcase Gig | ✅ | ✅ | ✅ | ✅ |  | Cursor, Devin, Github Copilot, ChatGPT は全エンジニアに導入。Claude Code は検討中です。 |
 | 株式会社アシュアード             | 🌀          | 🌀          | ✅          | 🌀          | ✅          | GitHub CopilotとClaude Codeをエンジニア向けに全社導入。<br> CursorをPdM、デザイナーに一部導入。 <br> ほか、Gemini Pro が全社で利用可能。          |
 | 株式会社コロプラ                         | ✅          | 🌀         | ✅                  | ✅           | ✅           | （Gemini Pro全社導入、Gemini CLI一部導入） <br> [AI駆動開発に向けた取り組み - AI推進組織の発足とCursorの導入](https://blog.colopl.dev/entry/cursor-engineer-adoption-2025) |
+| 株式会社 mov | ✅ | ✅ | ✅  | ✅ | ✅ | [mov は各種 AI ツールを導入しています](https://note.com/kaiba/n/n25e5cce10932)
+| [株式会社kubell](https://www.kubell.com/) | 🌀 | 🌀 | ✅ | | 🌀 | 希望者にはCursor,Devin,ClaudeCodeなど付与。全社としてはGeminiが使えるような環境。 |
+| 株式会社エスマット                         | ✅          | ✅         | ✅                  | ✅           | ✅           | 個人が好きな環境を選択可能。Claude Codeは利用量に応じてMAXプランに切り替え可。|
+| 株式会社B4A | 🌀 | ✅ | ✅ | 🌀 | ✅ | プロダクトチーム全社員がClaude CodeとDevin利用可能。<br>全社員がGemini利用可能。<br>CursorとChatGPTは一部のみ利用可能。 |
+| mocomoco株式会社                        | 🌀          | 🌀         | ✅                  | ✅           | ✅           | mocomocoでは、Claude Codeを開発部全員に導入しています🤖 <br> https://x.com/gojiteji/status/1936074104811229686 |
 | 株式会社ヤオコー                         | 🌀         | 🌀         | ✅                  | 🌀           | 🌀           |（GitHub Copilotは全社導入、Devinは2025/02より使用開始、ClaudeCodeMaxPlanは2025/06より導入、社内文書をRAG化したAIボットのイントラツールを内製し全店舗で利用可能） [人間性を捧げる生成AI時代の技術選定](https://speakerdeck.com/yo4raw/ren-jian-xing-wo) |
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
