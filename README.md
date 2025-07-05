@@ -98,5 +98,6 @@ PRを送っていただけると大変助かります！🙌
 | 株式会社キャリアインデックス | 🌀 | ✅ | ✅  | 🌀 | 🌀 | エンジニアに関して、Claude Codeは今後MAXを利用する予定、CodeRabbitも一部導入中。Geminiは全社員導入中。 |
 | 株式会社iCARE                          | 🌀          | ✅         | ✅                  |            | 🌀           | 全社的にAIツールの利用を推進。GitHub Copilot・Devin（Wiki・Search・Session）を全社導入、Claude Codeのmaxプランを全エンジニアに展開予定
 | フリー株式会社 |  | 🌀 | ✅  | Gemini | 🌀 | [AIエージェントCline、freeeはどうやって全社導入した？](https://developers.freee.co.jp/entry/ai-cline-rolling-out)
+| アスクル株式会社                            |  | 🌀 | ✅  | ✅ |  | GitHub Copilotは全エンジニアに、ChatGPTは全社的に導入済み。Devinは一部開発チームから順次導入しています。<br> [全社員を対象に自社専用対話型生成AIツールを運用開始](https://www.askul.co.jp/kaisya/dx/stories/00146.html?nextUri=/kaisya/dx/stories/00146.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
