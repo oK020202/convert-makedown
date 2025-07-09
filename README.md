@@ -72,7 +72,7 @@ PRを送っていただけると大変助かります！🙌
 | レバレジーズ株式会社 | 🌀 | 🌀 | [✅](https://tech.leverages.jp/entry/2023/07/24/140938) | Gemini<br>[社内ツール](https://tech.leverages.jp/entry/2024/12/10/131137) | 🌀 | 自社のセキュリティやプライバシーポリシー等に抵触しない限り、申請すれば利用可能 |
 | 千株式会社                     | ✅          | 🌀           | ✅                  | 🌀          | 🌀          | （「GitHub Copilot、Cursor」を全エンジニア・PdMに導入・Devin、Claude Codeを一部導入） |
 | 株式会社TechBowl                       |            |           | ✅                  |             | ✅           | GitHub CopilotとClaude Codeを全社導入 <br> [参考](https://zenn.dev/p/techtrain_blog)                                          |
-| ランサーズ株式会社                          | 🌀          | 🌀         |                   |            | 🌀           | 2025年3月から全エンジニアに「Windsurf」を導入、一部はCursor、Claude Code、Dify利用可能。また業務自動化AIエージェント「ランサーズ ジムインAI」全社導入、OpenAI、Gemini、Anthropicの主要モデルおよびStableDiffusionでの画像生成が使い放題  <br> [弊社執行役員のポスト](https://x.com/waldo0515/status/1924749765159616592) <br>  [ランサーズ ジムインAI](https://www.lancers.co.jp/news/pr/24268/)          |
+| ランサーズ株式会社                          | ✅          | ✅         | ✅                  |  　          | ✅           | 2025年3月から全エンジニアに「Windsurf」を導入、使いたいAIツールを挙手すれば、有料プランを全員に配布する仕組みも整えている。また業務自動化AIエージェント「ランサーズ ジムインAI」全社導入、OpenAI、Gemini、Anthropicの主要モデルおよびStableDiffusionでの画像生成が使い放題  <br> [全エンジニアにAI開発ツール「Windsurf」導入 ～社内調査：使用実態調査レポートを公開～](https://note.com/lancerspr/n/nbc8abc6a92a2) <br>  [ランサーズ ジムインAI](https://www.lancers.co.jp/news/pr/24268/)          |
 | 株式会社カナリー                          | ✅           | ✅           | ✅                  | 🌀           |             | Gemini for Google Workspace・Difyを全社導入 <br> [AI関連ツールの活用](https://recruit.canary-app.jp/engineer-entrance-book#:~:text=%E3%81%A6%E3%81%84%E3%81%8D%E3%81%9F%E3%81%84%E3%80%82-,3.2%20AI%E9%96%A2%E9%80%A3%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AE%E6%B4%BB%E7%94%A8,-GitHub%20Copilot)             |
 | 株式会社 オプティム | ✅ | | | | ✅ | 全エンジニアにAmazon bedrock経由で導入済み |
 | [NOWIST株式会社](https://nowist.co.jp/)  | ✅ |  | ✅ | ✅ |  | 全職種AI利用OK！ドキュメントと連携し効率化中  |
@@ -103,5 +103,6 @@ PRを送っていただけると大変助かります！🙌
 | Nature株式会社                         | ✅          | ✅         | ✅                  | 🌀           | ✅           | Google Workspace契約によりGemini Advanced利用可能。他のAIツールも申請すれば基本的に予算範囲内で利用可能。 <br> [【生成AI入門者向け】社内用に作ったスライドを公開します](https://engineering.nature.global/entry/how-to-get-along-well-with-generative-ai-public-version) |
 | Check Inn 株式会社 |  | ✅ | ✅  | 🌀 |  | GitHub Copilot・Devinを全エンジニアに導入。<br>ChatGPTは一部導入済み
 | 株式会社LegalOn Technologies | ✅ | ✅ | ✅ | ✅ | 🌀 | Devin、Cursor、ChatGPT、Geminiを全社展開。希望者はClaude Codeも利用可。<br>[AI-powered Development Center of Excellence (AID CoE) 発足！AI駆動開発で LegalOn Technologies の開発を加速する](https://tech.legalforce.co.jp/entry/2025/05/07/115000) |
+| 株式会社Grooves | ✅ | ✅ | ✅  | 🌀 | 🌀 | Gemini for Google Workspaceを導入<br>ChatGPTは希望者に配布|
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
