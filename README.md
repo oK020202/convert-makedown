@@ -102,5 +102,6 @@ PRを送っていただけると大変助かります！🙌
 | 株式会社GameWith | ✅ | ✅ | ✅ | ✅ | ✅ | 2023年3月よりGithub Copilot全社導入。2024年5月よりCursor, ChatGPT, Claudeなどの全社導入。Devin, Claude Codeも試験導入後に全社導入、その他Geminiも導入済み） <br> 【[GameWithでAIをうまく使うために取り組んでいること](https://tech.gamewith.co.jp/entry/2023/05/23/184033)】 <br> 【[AIツールの選択肢が増えたのでCursorを使い始めてみた話](https://tech.gamewith.co.jp/entry/2024/12/04/161409)】 <br> 【[Devinを2ヶ月間使った結果](https://tech.gamewith.co.jp/entry/2025/05/16/080000)】 |
 | Nature株式会社                         | ✅          | ✅         | ✅                  | 🌀           | ✅           | Google Workspace契約によりGemini Advanced利用可能。他のAIツールも申請すれば基本的に予算範囲内で利用可能。 <br> [【生成AI入門者向け】社内用に作ったスライドを公開します](https://engineering.nature.global/entry/how-to-get-along-well-with-generative-ai-public-version) |
 | Check Inn 株式会社 |  | ✅ | ✅  | 🌀 |  | GitHub Copilot・Devinを全エンジニアに導入。<br>ChatGPTは一部導入済み
+| 株式会社Grooves | ✅ | ✅ | ✅  | 🌀 | 🌀 | Gemini for Google Workspaceを導入<br>ChatGPTは希望者に配布|
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
