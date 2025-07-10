@@ -103,5 +103,6 @@ PRを送っていただけると大変助かります！🙌
 | Nature株式会社                         | ✅          | ✅         | ✅                  | 🌀           | ✅           | Google Workspace契約によりGemini Advanced利用可能。他のAIツールも申請すれば基本的に予算範囲内で利用可能。 <br> [【生成AI入門者向け】社内用に作ったスライドを公開します](https://engineering.nature.global/entry/how-to-get-along-well-with-generative-ai-public-version) |
 | Check Inn 株式会社 |  | ✅ | ✅  | 🌀 |  | GitHub Copilot・Devinを全エンジニアに導入。<br>ChatGPTは一部導入済み
 | 株式会社Grooves | ✅ | ✅ | ✅  | 🌀 | 🌀 | Gemini for Google Workspaceを導入<br>ChatGPTは希望者に配布|
+| 株式会社ビットキー | 🌀 | 🌀 | ✅ | 🌀 |  | Geminiを全社導入済み | 
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
