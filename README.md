@@ -89,7 +89,7 @@ PRを送っていただけると大変助かります！🙌
 | 株式会社Showcase Gig | ✅ | ✅ | ✅ | ✅ |  | Cursor, Devin, Github Copilot, ChatGPT は全エンジニアに導入。Claude Code は検討中です。 |
 | 株式会社アシュアード             | 🌀          | 🌀          | ✅          | 🌀          | ✅          | GitHub CopilotとClaude Codeをエンジニア向けに全社導入。<br> CursorをPdM、デザイナーに一部導入。 <br> ほか、Gemini Pro が全社で利用可能。          |
 | 株式会社コロプラ                         | ✅          | 🌀         | ✅                  | ✅           | ✅           | （Gemini Pro全社導入、Gemini CLI一部導入） <br> [AI駆動開発に向けた取り組み - AI推進組織の発足とCursorの導入](https://blog.colopl.dev/entry/cursor-engineer-adoption-2025) |
-| 株式会社 mov | ✅ | ✅ | ✅  | ✅ | ✅ | [mov は各種 AI ツールを導入しています](https://note.com/kaiba/n/n25e5cce10932)
+| 株式会社 mov | ✅ | ✅ | ✅  | ✅ | ✅ | [mov は各種 AI ツールを導入しています](https://note.com/kaiba/n/n25e5cce10932) |
 | [株式会社kubell](https://www.kubell.com/) | 🌀 | 🌀 | ✅ | | 🌀 | 希望者にはCursor,Devin,ClaudeCodeなど付与。全社としてはGeminiが使えるような環境。 |
 | [ちゅらデータ株式会社](https://churadata.okinawa/) | ✅ | ✅ | ✅ | ✅ | ✅ | 社内制度により、弊社エンジニアは任意のツールを導入可能。また、弊社プロダクト｢[AI文章校正ツールちゅらいと](https://chuwrite.com/)｣を無制限に利用可能。 |
 | 株式会社エスマット                         | ✅          | ✅         | ✅                  | ✅           | ✅           | 個人が好きな環境を選択可能。Claude Codeは利用量に応じてMAXプランに切り替え可。|
@@ -97,12 +97,13 @@ PRを送っていただけると大変助かります！🙌
 | mocomoco株式会社                        | 🌀          | 🌀         | ✅                  | ✅           | ✅           | mocomocoでは、Claude Codeを開発部全員に導入しています🤖 <br> https://x.com/gojiteji/status/1936074104811229686 |
 | 株式会社ヤオコー                         | 🌀         | 🌀         | ✅                  | 🌀           | 🌀           |（GitHub Copilotは全社導入、Devinは2025/02より使用開始、ClaudeCodeMaxPlanは2025/06より導入、社内文書をRAG化したAIボットのイントラツールを内製し全店舗で利用可能） [人間性を捧げる生成AI時代の技術選定](https://speakerdeck.com/yo4raw/ren-jian-xing-wo) |
 | 株式会社キャリアインデックス | 🌀 | ✅ | ✅  | 🌀 | 🌀 | エンジニアに関して、Claude Codeは今後MAXを利用する予定、CodeRabbitも一部導入中。Geminiは全社員導入中。 |
-| 株式会社iCARE                          | 🌀          | ✅         | ✅                  |            | 🌀           | 全社的にAIツールの利用を推進。GitHub Copilot・Devin（Wiki・Search・Session）を全社導入、Claude Codeのmaxプランを全エンジニアに展開予定
-| フリー株式会社 |  | 🌀 | ✅  | Gemini | 🌀 | [AIエージェントCline、freeeはどうやって全社導入した？](https://developers.freee.co.jp/entry/ai-cline-rolling-out)
+| 株式会社iCARE                          | 🌀          | ✅         | ✅                  |            | 🌀           | 全社的にAIツールの利用を推進。GitHub Copilot・Devin（Wiki・Search・Session）を全社導入、Claude Codeのmaxプランを全エンジニアに展開予定 |
+| フリー株式会社 |  | 🌀 | ✅  | Gemini | 🌀 | [AIエージェントCline、freeeはどうやって全社導入した？](https://developers.freee.co.jp/entry/ai-cline-rolling-out) |
 | アスクル株式会社                            |  | 🌀 | ✅  | ✅ |  | GitHub Copilotは全エンジニアに、ChatGPTは全社的に導入済み。Devinは一部開発チームから順次導入しています。<br> [全社員を対象に自社専用対話型生成AIツールを運用開始](https://www.askul.co.jp/kaisya/dx/stories/00146.html?nextUri=/kaisya/dx/stories/00146.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | 株式会社GameWith | ✅ | ✅ | ✅ | ✅ | ✅ | 2023年3月よりGithub Copilot全社導入。2024年5月よりCursor, ChatGPT, Claudeなどの全社導入。Devin, Claude Codeも試験導入後に全社導入、その他Geminiも導入済み） <br> 【[GameWithでAIをうまく使うために取り組んでいること](https://tech.gamewith.co.jp/entry/2023/05/23/184033)】 <br> 【[AIツールの選択肢が増えたのでCursorを使い始めてみた話](https://tech.gamewith.co.jp/entry/2024/12/04/161409)】 <br> 【[Devinを2ヶ月間使った結果](https://tech.gamewith.co.jp/entry/2025/05/16/080000)】 |
 | Nature株式会社                         | ✅          | ✅         | ✅                  | 🌀           | ✅           | Google Workspace契約によりGemini Advanced利用可能。他のAIツールも申請すれば基本的に予算範囲内で利用可能。 <br> [【生成AI入門者向け】社内用に作ったスライドを公開します](https://engineering.nature.global/entry/how-to-get-along-well-with-generative-ai-public-version) |
 | Check Inn 株式会社 |  | ✅ | ✅  | 🌀 |  | GitHub Copilot・Devinを全エンジニアに導入。<br>ChatGPTは一部導入済み
 | 株式会社Grooves | ✅ | ✅ | ✅  | 🌀 | 🌀 | Gemini for Google Workspaceを導入<br>ChatGPTは希望者に配布|
+| 株式会社ベンジャミン | ✅ | 🌀 | ✅ | 🌀 | 🌀 | AWS環境ではAmazon Q Developer CLIを利用可能、Cursor, Devin, Gemini, GitHub Copilot Enterprise, Claude Codeは申請に基づき利用可能 |
 
 **注:** 上記のチェックマーク（✅）は、各社が公式に発表・確認した導入事例に基づき記載しています。などの出典は各社のプレスリリースや公式ニュースから引用しています。
