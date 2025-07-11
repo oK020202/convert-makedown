@@ -106,6 +106,7 @@ PRを送っていただけると大変助かります！🙌
 | Check Inn 株式会社 |  | ✅ | ✅  | 🌀 |  | GitHub Copilot・Devinを全エンジニアに導入。<br>ChatGPTは一部導入済み
 | 株式会社LegalOn Technologies | ✅ | ✅ | ✅ | ✅ | 🌀 | Devin、Cursor、ChatGPT、Geminiを全社展開。希望者はClaude Codeも利用可。<br>[AI-powered Development Center of Excellence (AID CoE) 発足！AI駆動開発で LegalOn Technologies の開発を加速する](https://tech.legalforce.co.jp/entry/2025/05/07/115000) |
 | 株式会社Grooves | ✅ | ✅ | ✅  | 🌀 | 🌀 | Gemini for Google Workspaceを導入<br>ChatGPTは希望者に配布|
+| 株式会社ビットキー | 🌀 | 🌀 | ✅ | 🌀 |  | Geminiを全社導入済み | 
 | 株式会社ベンジャミン | ✅ | 🌀 | ✅ | 🌀 | 🌀 | AWS環境ではAmazon Q Developer CLIを利用可能、Cursor, Devin, Gemini, GitHub Copilot Enterprise, Claude Codeは申請に基づき利用可能 |
 | ツクリンク株式会社 | ✅ | ✅ | ✅ | | ✅ | Claude Code, Cursor, GitHub Copilotを希望者に配布、Gemini Proを全社導入 <br> [ツクリンクにおける生成AIツールの活用事例](https://zenn.dev/tsukulink/articles/2025-07-gen-ai-tools) |
 
