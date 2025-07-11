@@ -1,0 +1,48 @@
+name: Update JSON Data
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+        
+    - name: Run conversion script
+      run: python convert_markdown_to_json.py
+      
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Commit and push changes
+      if: steps.verify-changed-files.outputs.changed == 'true' && github.event_name == 'push'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data.json
+        git commit -m "Auto-update data.json from README.md table"
+        git push
+        
+    - name: Show changes (PR only)
+      if: steps.verify-changed-files.outputs.changed == 'true' && github.event_name == 'pull_request'
+      run: |
+        echo "Changes detected in data.json for pull request:"
+        git diff data.json || echo "data.json is a new file"
