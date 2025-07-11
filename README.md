@@ -91,6 +91,7 @@ PRを送っていただけると大変助かります！🙌
 | 株式会社コロプラ                         | ✅          | 🌀         | ✅                  | ✅           | ✅           | （Gemini Pro全社導入、Gemini CLI一部導入） <br> [AI駆動開発に向けた取り組み - AI推進組織の発足とCursorの導入](https://blog.colopl.dev/entry/cursor-engineer-adoption-2025) |
 | 株式会社 mov | ✅ | ✅ | ✅  | ✅ | ✅ | [mov は各種 AI ツールを導入しています](https://note.com/kaiba/n/n25e5cce10932) |
 | [株式会社kubell](https://www.kubell.com/) | 🌀 | 🌀 | ✅ | | 🌀 | 希望者にはCursor,Devin,ClaudeCodeなど付与。全社としてはGeminiが使えるような環境。 |
+| [コミューン株式会社](https://communeinc.com/) | ✅ | ✅ | ✅ | ✅ | ✅ | 業務内容や個々のニーズに応じて、従業員が最適な生成AIツールの有料アカウントを自由に選択・活用できます<br>[業務に合わせてAIを選ぶ、新しい働き方。コミューンの『Choose Your AI』とは](https://note.com/communeinc/n/ndf8167c13160) |
 | [ちゅらデータ株式会社](https://churadata.okinawa/) | ✅ | ✅ | ✅ | ✅ | ✅ | 社内制度により、弊社エンジニアは任意のツールを導入可能。また、弊社プロダクト｢[AI文章校正ツールちゅらいと](https://chuwrite.com/)｣を無制限に利用可能。 |
 | 株式会社エスマット                         | ✅          | ✅         | ✅                  | ✅           | ✅           | 個人が好きな環境を選択可能。Claude Codeは利用量に応じてMAXプランに切り替え可。|
 | 株式会社B4A | 🌀 | ✅ | ✅ | 🌀 | ✅ | プロダクトチーム全社員がClaude CodeとDevin利用可能。<br>全社員がGemini利用可能。<br>CursorとChatGPTは一部のみ利用可能。 |
