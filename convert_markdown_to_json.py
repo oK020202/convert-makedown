@@ -49,14 +49,14 @@ def parse_official_sources(official_info: str) -> List[Dict[str, Optional[str]]]
             part_without_links = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', '', part).strip()
             if part_without_links and part_without_links not in ['', '（）', '()']:
                 part_without_links = re.sub(r'^\（|\）$', '', part_without_links).strip()
-                if part_without_links:
+                if part_without_links and not re.match(r'^[^\w\s]+$', part_without_links):
                     sources.append({
                         "description": part_without_links,
                         "url": None
                     })
         else:
             clean_part = re.sub(r'^\（|\）$', '', part).strip()
-            if clean_part:
+            if clean_part and not re.match(r'^[^\w\s]+$', clean_part):
                 sources.append({
                     "description": clean_part,
                     "url": None
