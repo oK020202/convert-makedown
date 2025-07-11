@@ -8,6 +8,14 @@ import json
 from typing import List, Dict, Any, Optional
 
 
+STATUS_MAPPING = {
+    "✅": "full_adoption",
+    "🌀": "partial_adoption",
+    "❓": "unconfirmed",
+    "": "not_adopted"
+}
+
+
 def parse_official_sources(official_info: str) -> List[Dict[str, Optional[str]]]:
     """
     Parse the official information column to extract descriptions and URLs.
@@ -68,15 +76,7 @@ def map_status(emoji: str) -> str:
         Mapped status string
     """
     emoji = emoji.strip()
-
-    status_mapping = {
-        "✅": "full_adoption",
-        "🌀": "partial_adoption",
-        "❓": "unconfirmed",
-        "": "not_adopted"
-    }
-
-    return status_mapping.get(emoji, "not_adopted")
+    return STATUS_MAPPING.get(emoji, "not_adopted")
 
 
 def parse_markdown_table(readme_content: str) -> List[Dict[str, Any]]:
@@ -170,12 +170,7 @@ def main():
 
     output_data = {
         "companies": companies,
-        "status_mapping": {
-            "✅": "full_adoption",
-            "🌀": "partial_adoption",
-            "❓": "unconfirmed",
-            "": "not_adopted"
-        }
+        "status_mapping": STATUS_MAPPING
     }
 
     try:
