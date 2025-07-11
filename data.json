@@ -589,10 +589,6 @@
         {
           "description": "ChatGPTをZapierで使う",
           "url": "https://tech.visasq.com/chatgpt-with-zapier"
-        },
-        {
-          "description": "、",
-          "url": null
         }
       ]
     },
@@ -641,10 +637,6 @@
         {
           "description": "GPTを含めた複数LLMモデルのチャットツール",
           "url": "https://classmethod.jp/cases/kokuyo/"
-        },
-        {
-          "description": "、、",
-          "url": null
         }
       ]
     },
@@ -1595,24 +1587,12 @@
           "url": "https://tech.gamewith.co.jp/entry/2023/05/23/184033"
         },
         {
-          "description": "【】",
-          "url": null
-        },
-        {
           "description": "AIツールの選択肢が増えたのでCursorを使い始めてみた話",
           "url": "https://tech.gamewith.co.jp/entry/2024/12/04/161409"
         },
         {
-          "description": "【】",
-          "url": null
-        },
-        {
           "description": "Devinを2ヶ月間使った結果",
           "url": "https://tech.gamewith.co.jp/entry/2025/05/16/080000"
-        },
-        {
-          "description": "【】",
-          "url": null
         }
       ]
     },
@@ -1673,6 +1653,42 @@
         {
           "description": "ChatGPTは希望者に配布",
           "url": null
+        }
+      ]
+    },
+    {
+      "name": "株式会社ベンジャミン",
+      "tools": {
+        "cursor": "full_adoption",
+        "devin": "partial_adoption",
+        "github_copilot": "full_adoption",
+        "chatgpt": "partial_adoption",
+        "claude_code": "partial_adoption"
+      },
+      "official_sources": [
+        {
+          "description": "AWS環境ではAmazon Q Developer CLIを利用可能、Cursor, Devin, Gemini, GitHub Copilot Enterprise, Claude Codeは申請に基づき利用可能",
+          "url": null
+        }
+      ]
+    },
+    {
+      "name": "ツクリンク株式会社",
+      "tools": {
+        "cursor": "full_adoption",
+        "devin": "full_adoption",
+        "github_copilot": "full_adoption",
+        "chatgpt": "not_adopted",
+        "claude_code": "full_adoption"
+      },
+      "official_sources": [
+        {
+          "description": "Claude Code, Cursor, GitHub Copilotを希望者に配布、Gemini Proを全社導入",
+          "url": null
+        },
+        {
+          "description": "ツクリンクにおける生成AIツールの活用事例",
+          "url": "https://zenn.dev/tsukulink/articles/2025-07-gen-ai-tools"
         }
       ]
     }
