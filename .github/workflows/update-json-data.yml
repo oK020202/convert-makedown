@@ -33,10 +33,16 @@ jobs:
         fi
         
     - name: Commit and push changes
-      if: steps.verify-changed-files.outputs.changed == 'true'
+      if: steps.verify-changed-files.outputs.changed == 'true' && github.event_name == 'push'
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add data.json
         git commit -m "Auto-update data.json from README.md table"
         git push
+        
+    - name: Show changes (PR only)
+      if: steps.verify-changed-files.outputs.changed == 'true' && github.event_name == 'pull_request'
+      run: |
+        echo "Changes detected in data.json for pull request:"
+        git diff data.json || echo "data.json is a new file"
