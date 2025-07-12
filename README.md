@@ -88,6 +88,7 @@ PRを送っていただけると大変助かります！🙌
 | 株式会社TOKIUM                       | ✅           | ✅         | ✅                  | ✅            | ✅           | GitHub Copilotは2023年3月、Devinは2025年2月より導入 <br> [「AIが設計し、人間が洗練させる」新しい開発プロセスが始まった - 株式会社TOKIUM公式note](https://note.tokium.jp/n/ndc3da77d6e44) <br><br> 2025年6月から、エンジニア1人あたり月10万円のAIツール関連予算を確保しており、開発業務へのAI利用を積極的に支援 <br> [「アンラーニングを重ね、AIエージェント時代を切り拓く 【株式会社TOKIUM　取締役 CTO　西平 基志さん】」](https://magazine.techcareer.jp/interview/cto/24435/)                                         |
 | 株式会社Showcase Gig | ✅ | ✅ | ✅ | ✅ |  | Cursor, Devin, Github Copilot, ChatGPT は全エンジニアに導入。Claude Code は検討中です。 |
 | 株式会社アシュアード             | 🌀          | 🌀          | ✅          | 🌀          | ✅          | GitHub CopilotとClaude Codeをエンジニア向けに全社導入。<br> CursorをPdM、デザイナーに一部導入。 <br> ほか、Gemini Pro が全社で利用可能。          |
+| 株式会社エスマット                         | ✅          | ✅         | ✅                  | ✅           | ✅           | 個人が好きな環境を選択可能。Claude Codeは利用量に応じてMAXプランに切り替え可。|
 | 株式会社コロプラ                         | ✅          | 🌀         | ✅                  | ✅           | ✅           | （Gemini Pro全社導入、Gemini CLI一部導入） <br> [AI駆動開発に向けた取り組み - AI推進組織の発足とCursorの導入](https://blog.colopl.dev/entry/cursor-engineer-adoption-2025) |
 | 株式会社 mov | ✅ | ✅ | ✅  | ✅ | ✅ | [mov は各種 AI ツールを導入しています](https://note.com/kaiba/n/n25e5cce10932) |
 | [株式会社kubell](https://www.kubell.com/) | 🌀 | 🌀 | ✅ | | 🌀 | 希望者にはCursor,Devin,ClaudeCodeなど付与。全社としてはGeminiが使えるような環境。 |
