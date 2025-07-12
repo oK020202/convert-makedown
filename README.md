@@ -96,7 +96,7 @@ PRを送っていただけると大変助かります！🙌
 | [ちゅらデータ株式会社] | ✅ | ✅ | ✅ | ✅ | ✅ | 社内制度により、弊社エンジニアは任意のツールを導入可能。また、弊社プロダクト｢[AI文章校正ツールちゅらいと]｣を無制限に利用可能。 |
 | 株式会社エスマット                         | ✅          | ✅         | ✅                  | ✅           | ✅           | 個人が好きな環境を選択可能。Claude Codeは利用量に応じてMAXプランに切り替え可。|
 | 株式会社B4A | 🌀 | ✅ | ✅ | 🌀 | ✅ | プロダクトチーム全社員がClaude CodeとDevin利用可能。<br>全社員がGemini利用可能。<br>CursorとChatGPTは一部のみ利用可能。 |
-| mocomoco株式会社                        | 🌀          | 🌀         | ✅                  | ✅           | ✅           | mocomocoでは、Claude Codeを開発部全員に導入しています🤖 <br> https://x.com/gojiteji/status/1936074104811229686 |
+| mocomoco株式会社                        | 🌀          | 🌀         | ✅                  | ✅           | ✅           | mocomocoでは、Claude Codeを開発部全員に導入しています🤖 <br> |
 | 株式会社ヤオコー                         | 🌀         | 🌀         | ✅                  | 🌀           | 🌀           |（GitHub Copilotは全社導入、Devinは2025/02より使用開始、ClaudeCodeMaxPlanは2025/06より導入、社内文書をRAG化したAIボットのイントラツールを内製し全店舗で利用可能） [人間性を捧げる生成AI時代の技術選定] |
 | 株式会社キャリアインデックス | 🌀 | ✅ | ✅  | 🌀 | 🌀 | エンジニアに関して、Claude Codeは今後MAXを利用する予定、CodeRabbitも一部導入中。Geminiは全社員導入中。 |
 | 株式会社iCARE                          | 🌀          | ✅         | ✅                  |            | 🌀           | 全社的にAIツールの利用を推進。GitHub Copilot・Devin（Wiki・Search・Session）を全社導入、Claude Codeのmaxプランを全エンジニアに展開予定 |
